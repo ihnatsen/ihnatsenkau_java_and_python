@@ -18,7 +18,7 @@ This project serves as a test assignment for the "Andersen" organization.
 <h3>Python :snake: files</h3>
 <ul>
 	<li><h3>Task one: <em>Make up an algorithm</em> :computer:</h3>
-	<p>ihnatsenkau_pythonInterptitetion/task_one/main.py</p></li>
+	<p>ihnatsenkau_python/task_one/main.py</p></li>
 	<li><h3>Task two: <em>Answer the questions</em> :grey_question:</h3>
 	<p>ihnatsenkau_python/task_two/main.py</p></li>
 </ul>
